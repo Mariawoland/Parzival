@@ -1,0 +1,47 @@
+.forverbackground {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-image: url('/assets/backgrounds/img1.png');
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    z-index: -100;
+}
+
+.shadow-about {
+    box-shadow: 25px 25px #b28ce5dd;
+}
+
+.shadow-school {
+    box-shadow: 25px 25px #e58c8cdd;
+}
+
+.pClass1:hover .pImage1,
+.pClass2:hover .pImage2,
+.pClass3:hover .pImage3,
+.pClass4:hover .pImage4,
+.pClass5:hover .pImage5 {
+    opacity: 0.6;
+}
+
+.pClass1:hover .pLink1,
+.pClass3:hover .pLink3,
+.pClass5:hover .pLink5 {
+    transform: translateY(-1.2rem) translateX(-1.5rem) scale(1.25);
+}
+
+.pClass2:hover .pLink2,
+.pClass4:hover .pLink4 {
+    transform: translateY(1.2rem) translateX(1.5rem) scale(1.25);
+}
+
+@media(max-width: 767px) {
+
+    .shadow-about,
+    .shadow-school {
+        box-shadow: none;
+    }
+}

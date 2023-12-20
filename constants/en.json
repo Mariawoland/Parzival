@@ -1,0 +1,210 @@
+{
+    "navbar": {
+        "navbarListMain": [
+            {
+                "title": "Home",
+                "href": "/"
+            },
+            {
+                "title": "About",
+                "href": "/about_us"
+            },
+            {
+                "title": "Projects",
+                "href": "/projects"
+            },
+            {
+                "title": "Shop",
+                "href": "/shop"
+            },
+            {
+                "title": "Donation",
+                "href": "/donation"
+            }
+        ],
+        "navbarListOne": [
+            {
+                "id": 1,
+                "title": "Our Story",
+                "href": "/about_us#one"
+            },
+            {
+                "id": 2,
+                "title": "Why Parzival?",
+                "href": "/about_us#two"
+            },
+            {
+                "id": 3,
+                "title": "Our Team",
+                "href": "/about_us#three"
+            }
+        ],
+        "navbarListTwo": [
+            {
+                "id": 1,
+                "title": "School",
+                "href": "/school"
+            },
+            {
+                "id": 2,
+                "title": "Seminar",
+                "href": "/seminar"
+            },
+            {
+                "id": 3,
+                "title": "Garden",
+                "href": "/garden"
+            },
+            {
+                "id": 4,
+                "title": "Workshop",
+                "href": "/workshop"
+            },
+            {
+                "id": 5,
+                "title": "Ride Therapy",
+                "href": "/ridetherapy"
+            }
+        ]
+    },
+    "hero": {
+        "text1": "The One - Year Course",
+        "text2": "Parzival Youth Seminar",
+        "text3": "Self-awareness, Self-determination, Professional Orientation",
+        "text4": "Find Out More"
+    },
+    "about_us_main": {
+        "text1": "About Us",
+        "text2": "We are Youth Society Parzival from Georgia.",
+        "text3": "The path we have taken so far includes a variety of artistic and social activities. In 2020, the pandemic has brought many social issues to us, one of which is education. That is why we have oriented ourselves in the direction of pedagogy.",
+        "text4": "We decided to build an educational space based on the principles of Waldorf education in one of the Georgian villages, Matsevani. The school is also intended for children living in neighboring villages.",
+        "text5": "Our main goal is to plan, promote and implement educational/social initiatives of young people in various directions. In the future, we would like to create a community in this village where the activities of each individual are organically connected.",
+        "text6": "Learn More"
+    },
+    "about": {
+        "text": [
+            "Our Story",
+            "Our story begins in 2016. Through the years many likeminded people have joined and left the group, lots of ideas were born, implemented or canceled, but the path we've taken so far has led us to today.",
+            "Group's first activities included a variety of artistic and social activities. Events took a turn in 2020. The pandemic has brought many social issues to us, one of which is education. That is why we have oriented ourselves in the direction of pedagogy. We decided to build an educational space based on the principles of Waldorf education in one of the Georgian villages, Matsevani. The school is also intended for children living in neighboring villages.",
+            "Our main goal is to plan, promote and implement educational/social initiatives of young people in various directions. In the future, we would like to create a community in this village where the activities of each individual are organically connected.",
+            "Why Parzival?",
+            "We didn't think much about the name - Parzival. Because the hero of the epic is an important role model for us.",
+            "Parzival is the character in the epic poem by Wolfram von Eschenbach. He was a knight who went through a long and difficult path before he found the truth, divine wisdom, and therefore God. According to the poem, he was the last king and guardian of the holy Grail.",
+            "Inspired by this story, Richard Wagner wrote an opera called Parsifal, which was his last composition."
+        ],
+        "members": {
+            "title": "Our Team",
+            "description": "We are a group of friends united around a common idea. We are all very different in character, but the most important thing that connects us – is to change society with healthy impulses.",
+            "member": [
+                {
+                    "name": "Sophie Khadurishvili",
+                    "description": "26 years old. She graduated faculty of psychology and educational sciences as a bachelor and organization development and consulting as master. Currently, she is leading Parzival weekend school.",
+                    "image": "/assets/images/about/img3.webp"
+                },
+                {
+                    "name": "Ani Jibghashvili",
+                    "description": "26 years old. She has a bachelor's degree in economics and a master's degree in organization development and consulting. Currently, she is leading Parzival weekend school.",
+                    "image": "/assets/images/about/img4.webp"
+                },
+                {
+                    "name": "Nikoloz Kanchaveli",
+                    "description": "27 years old. He graduated faculty of social and political sciences as a bachelor and organization development and consulting as master. Currently, he is leading Parzival youth seminar.",
+                    "image": "/assets/images/about/img5.webp"
+                },
+                {
+                    "name": "Natia Kobalia",
+                    "description": "25 years old. She has a bachelor's degree in social sciences. She is a teacher of social studies in private school in Tbilisi. Also, she teaches clay art at Parzival weekend school.",
+                    "image": "/assets/images/about/img6.webp"
+                },
+                {
+                    "name": "Sofio Gzirishvili",
+                    "description": "23 years old. Has a bachelor's degree in psychology. She is currently a teacher at Parzival School. She has experience in working with children with autism spectrum and Down syndrome.",
+                    "image": "/assets/images/about/img7.jpeg"
+                },
+                {
+                    "name": "Beka Kvrivishvili",
+                    "description": "25 years old. He graduated faculty of civil engineering. Now he is a teacher at Parzival weekend school.",
+                    "image": "/assets/images/about/img8.webp"
+                },
+                {
+                    "name": "Ninia Goiadze",
+                    "description": "28 years old. She graduated faculty of psychology and educational sciences as a bachelor. Currently, she works in Tbilisi Free Waldorf School as a class teacher. She also works on a hippotherapy project.",
+                    "image": "/assets/images/about/img9.webp"
+                },
+                {
+                    "name": "Giorgi Ekizashvili",
+                    "description": "27 years old. He has two bachelor's degrees in law and psychology. He is a therapeutic teacher. Currently, he is leading and working on a project about hippotherapy.",
+                    "image": "/assets/images/about/img10.webp"
+                },
+                {
+                    "name": "Nino Kobaidze",
+                    "description": "27 years old. She graduated faculty of medicine. She is interested in anthroposophical medicine and taking various courses. She also works on a hippotherapy project.",
+                    "image": "/assets/images/about/img11.webp"
+                },
+                {
+                    "name": "Ilia Dundua",
+                    "description": "26 years old. He has a bachelor's degree in psychology and educational sciences. Currently, he is a house manager at Parzival educational space.",
+                    "image": "/assets/images/about/img12.webp"
+                },
+                {
+                    "name": "Mariam Kvirtia",
+                    "description": "26 years old. She graduated faculty of psychology and educational sciences. Currently, she is studying in Germany.",
+                    "image": "/assets/images/about/img13.webp"
+                },
+                {
+                    "name": "Davit Kvrivishvili",
+                    "description": "27 years old. He graduated faculty of architecture. Currently, he is studying in Germany.",
+                    "image": "/assets/images/about/img14.webp"
+                }
+            ]
+        }
+    },
+    "school": {
+        "schoolNav": [
+            {
+                "name": "მეთოდოლოგია",
+                "href": "/projects/school#one"
+            },
+            {
+                "name": "სასწავლო პროცესი",
+                "href": "/projects/school#two"
+            },
+            {
+                "name": "ჯგუფები",
+                "href": "/projects/school#three"
+            },
+            {
+                "name": "დამატებითი პროექტები",
+                "href": "/projects/school#four"
+            },
+            {
+                "name": "გალერეა",
+                "href": "/projects/school#five"
+            }
+        ],
+        "text1": [
+            "პარსიფალის საშაბათკვირაო სკოლა",
+            "პარსიფალის საშაბათკვირაო სკოლა არის ჩვენი ჯგუფის პირველი წარმატებული პროექტი. სკოლამ ფუნქციონირება 2022 წლის ოქტომბერში დაიწყო. მისი მთავარი დანიშნულებაა, დაეხმარეოს 9-დან 14 წლამდე  მოზარდებს პიროვნული უნარების განვითარებაში.",
+            "პარსიფალის სკოლის მოსწავლეები იღებენ ალტერნატიულ განათლებას, მონაწილეობენ კულტურულ ღონისძიებებში და საფუძვლიანად ეცნობიან სხვადასხვა სფეროს."
+        ],
+        "text2": [
+            "მეთოდოლოგია და იდეოლოგია",
+            "ჩვენ გვჯერა, რომ პედაგოგიკა ადამიანის განვითარების ერთ-ერთი ყველაზე ღირსეული სამარჯვია. ბავშვისთვის სწორი საგანმანათლებლო სივრცე უაღრესად მნიშვნელოვანია და ის განსაზღვრავს მის მომავალ ცხოვრებას.",
+            "ჩვენ ვიზიარებთ და მივყვებით ვალდორფის პედაგოგიკას. ეს მიდგომა ეფუძნება თვითრეალიზაციის გზით სწავლის პროცესს, რომელიც ითვალისწინებს პიროვნების ფიზიკურ, სოციალურ, ემოციურ და სულიერ ზრდას კომპლექსურად",
+            "საგანმანათლებლო სილაბუსის შემუშავების ფაზაში და მოსწავლეებთან ურთიერთობისას, პედაგოგიური ჯგუფი ეყრდნობა ანთროპოსოფიულ კვლევებს ადამიანის განვითარების შესახებ. სხვადასხვა თემების გაცნობისას მოსწავლეები ეცნობიან საკითხს, არა მხოლოდ თეორიული მიმართულებით, არამედ ეს ცოდნა გადააქვთ პრაქტიკულ მუშაობაში, ხელსაქმის გაკვეთილის დახმარებით."
+        ],
+        "text3": [
+            "სასწავლო პროცესი",
+            "წლის განმავლობაში სასწავლო პროცესი იყოფა სამ ეპოქად: შემოდგომა-ზამთრის, ზამთარ-გაზაფხულისა და გაზაფხულ-ზაფხულის ეპოქა. თითოეული ეპოქის განმავლობაში სასწავლო საგნები ირჩევა სეზონის ხასიათისა და მოსწავლეების ფსიქო-სოციალური განვითარების მიხედვით.",
+            "მივყვებით სწავლების პროექტულ სტილს. ეპოქის განმავლობაში ვირჩევთ  ერთ დიდ პროქტს, რომლის განხორციელების პროცესშიც ვსწავლობთ ყველაფერს, რაც მიზნის მისაღწევადაა საჭირო.",
+            "პროგრამის დეტალური აღწერა"
+        ],
+        "text4": [
+            "ჯგუფები და პროგრამები",
+            "ამ დროისთვის სკოლაში არსებობს ორი ასაკობრივი ჯგუფი, 8-10 წლის და 11-დან 14 წლის მოსწავლეთა ჯგუფი. მოსწავლეები მიიღებიან ყოველი  ტრიმესტრის დასაწყისში, რეგისტრაციის საფუძველზე (სექტემბრის, იანვრის და აპრილის თვეებში).",
+            "რეგისტრაცია",
+            "გარდა ამისა, მოსწავლეების ინტერესებისა და საჭიროებების გათვალისწინებით, ვქმნით სხვადასხვა თემატურ კლუბებს. აღნიშნული წრეები ორიენტირებულია მოზარდების ლოგიკური და ანალიტიკური უნარების განვითარებაზე. ამ დროისთვის, შექმნილია სამაგიდო თამაშების კლუბი  და მომავალში ვაპირებთ სხვა თემატური წრეების დამატებას.",
+            "სამაგიდო თამაშების კლუბში გაწევრიანება"
+        ]
+    }
+}
