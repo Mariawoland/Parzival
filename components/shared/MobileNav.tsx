@@ -20,7 +20,7 @@ export default function MobileNav() {
                 <Image width={30} height={30} src='/assets/icons/menu.png' alt="Menu Button" />
             </SheetTrigger>
 
-            <SheetContent className='bg-one-1 p-4 border-0'>
+            <SheetContent className='bg-one-1 p-4 border-0' style={{ zIndex: '1000' }}>
 
                 <SheetHeader>
 

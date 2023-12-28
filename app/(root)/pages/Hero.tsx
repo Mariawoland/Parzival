@@ -6,6 +6,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import '@/styles.css';
 import Link from 'next/link';
+import { TermsAndCondtions1 } from '@/components/shared/TermsAndCondtions';
 
 export default function Hero() {
 
@@ -22,19 +23,28 @@ export default function Hero() {
 
     return (
         <>
-            <div className="relative max-w-screen min-h-screen pt-0 px-0 pb-4 m-0 flex items-center justify-center">
+            <div className="relative max-w-screen h-[88vh] pt-0 px-0 m-0 flex items-center justify-center">
 
-                <img src='/assets/images/main/img1.webp' className="absolute inset-0 w-full h-full object-cover -z-10" />
+                <img src='/assets/images/main/img1.png' className="absolute inset-0 w-full h-[88vh] object-cover -z-10 brightness-50" />
 
-                <div data-aos="fade-right" className="z-10 flex flex-col justify-center items-center md:gap-12 gap-8 text-center text-white">
+                <div data-aos="fade-right" className="sm:p-[8%] py-[15%] px-[10%] z-10 min-h-full flex flex-col justify-between items-center text-center text-white">
 
-                    <h1 className='md:text-2xl text-lg tracking-wider'>{texts.hero.text1}</h1>
+                    <div>
+                        <h1 className='md:text-4xl sm:text-2xl text-xl md:leading-loose leading-relaxed tracking-widest pb-2'>{texts.hero.text1}</h1>
 
-                    <h1 className='md:text-5xl text-4xl md:leading-loose leading-relaxed md:pb-5 tracking-widest'>{texts.hero.text2}</h1>
+                        <h1 className='md:text-base sm:text-sm text-xs leading-relaxed tracking-wider pb-4'>{texts.hero.text2}</h1>
+                    </div>
 
-                    <h1 className='md:text-2xl text-lg leading-relaxed tracking-wider pb-4'>{texts.hero.text3}</h1>
+                    <div className='flex md:flex-row flex-col sm:gap-5 gap-3'>
 
-                    <Link className='md:text-xl text-xl md:w-96 w-[270px] tracking-wider rounded-full border-2 py-3 border-five-1 hover:border-four-1 bg-four-2 hover:bg-five-2 text-five-1 hover:text-four-1 transition-all duration-500' href='/seminar'>{texts.hero.text4}</Link>
+                        <a className='sm:text-lg text-sm h-[55px] md:w-96 w-[270px] tracking-wider rounded-full border-2 p-3 border-three-1 hover:border-four-1 bg-four-2 hover:bg-three-2 text-three-1 hover:text-four-1 transition-all duration-500 font-bold' href='https://parzivalknight.ge/ge'>{texts.hero.text3}</a>
+
+                        <Link className='sm:text-lg text-sm h-[55px] md:w-96 w-[270px] tracking-wider rounded-full border-2 p-3 border-three-1 hover:border-four-1 bg-four-2 hover:bg-three-2 text-three-1 hover:text-four-1 transition-all duration-500 font-bold' href='/donation'>{texts.hero.text4}</Link>
+
+                        <TermsAndCondtions1 />
+                    </div>
+
+
 
                 </div>
             </div>

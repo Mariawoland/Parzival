@@ -56,7 +56,7 @@ export const Header = () => {
                         <MobileNav />
                         <button onClick={handleLanguageChange}>
                             <img
-                                src={currentLanguage === 'en' ? 'assets/icons/english.png' : 'assets/icons/georgian.png'}
+                                src={currentLanguage === 'en' ? '/assets/icons/english.png' : '/assets/icons/georgian.png'}
                                 width={30}
                                 alt={currentLanguage === 'en' ? 'Georgian Flag' : 'English Flag'} />
 
@@ -67,7 +67,7 @@ export const Header = () => {
                         <NavItems />
                         <button onClick={handleLanguageChange}>
                             <img
-                                src={currentLanguage === 'en' ? 'assets/icons/english.png' : 'assets/icons/georgian.png'}
+                                src={currentLanguage === 'en' ? '/assets/icons/english.png' : '/assets/icons/georgian.png'}
                                 width={30}
                                 alt={currentLanguage === 'en' ? 'Georgian Flag' : 'English Flag'} />
 

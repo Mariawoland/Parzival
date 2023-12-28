@@ -15,7 +15,7 @@
             },
             {
                 "title": "Shop",
-                "href": "/shop"
+                "href": "/shopEn"
             },
             {
                 "title": "Donation",
@@ -68,10 +68,11 @@
         ]
     },
     "hero": {
-        "text1": "The One - Year Course",
-        "text2": "Parzival Youth Seminar",
-        "text3": "Self-awareness, Self-determination, Professional Orientation",
-        "text4": "Find Out More"
+        "text1": "So, It Is Your Turn To Become Parzival's Knight",
+        "text2": "If you are interested in our work and want to become a supporter of Parzival, you can easily go to the link or write to us via email. Minimal financial support is also important to strengthen our work.",
+        "text3": "Become Parzival's Knight",
+        "text4": "Learn More",
+        "text5": "Terms and Conditions"
     },
     "about_us_main": {
         "text1": "About Us",
@@ -205,6 +206,25 @@
             "რეგისტრაცია",
             "გარდა ამისა, მოსწავლეების ინტერესებისა და საჭიროებების გათვალისწინებით, ვქმნით სხვადასხვა თემატურ კლუბებს. აღნიშნული წრეები ორიენტირებულია მოზარდების ლოგიკური და ანალიტიკური უნარების განვითარებაზე. ამ დროისთვის, შექმნილია სამაგიდო თამაშების კლუბი  და მომავალში ვაპირებთ სხვა თემატური წრეების დამატებას.",
             "სამაგიდო თამაშების კლუბში გაწევრიანება"
+        ]
+    },
+    "donation": {
+        "slide1": [
+            "BE PART OF OUR INITIATIVE, BECOME PARZIVAL'S KNIGHT",
+            "Parzival School Building is an ideal example of community engagement.",
+            "Our team and work were supported by a very large group in the process of school construction. In addition to the funds and individuals who supported us financially, there was a large team of volunteer workers next to us. From the very first day of the school construction, our friends, friends of friends, sometimes completely strangers came to the Matsevani with their own desire to contribute their energy into the initiation of Parzival.",
+            "That time we saw what the society can do when they have the same goal. That is why we decided to give an opportunity to worldwide community and especially Georgian one to put their contribution to create the healthier environment for the present and future generations.",
+            "So, we are trying to pack a squad of Parzival knights, join us in our journey.",
+            "Become Parzival's Knight"
+        ],
+        "slide2": [
+            "Let us tell you about our experience",
+            "During the building process, we faced a terrible financial crisis and we had no opportunity to continue working. However, followers of our social networks did not allow us to stop the construction process. With their financial support, even a minimal number of contributions, we were able to make valuable savings, which charged us with a different kind of motivation and force not to give up.",
+            "At this time, we saw that social activities are not an initiative and duty of one particular group, we are all involved in this process together. And only in this case do we achieve our goal, only by working together we restore the community around us."
+        ],
+        "slide3": [
+            "It was for this reason that we had a 'wall of gratitude' at school. The wall contained the names of all people who expressed physical, financial, and moral support for our work. Today, these walls strengthen the main entrance to the school. Although the names are no longer visible, we remember and appreciate the contributions of each person or organization.",
+            "Now, we want to move the physical wall online, which will no longer be painted and will remain visible all the time."
         ]
     }
 }

@@ -2,6 +2,7 @@ import { Document, Schema, model, models } from "mongoose";
 
 export interface IProduct extends Document {
     _id: string;
+    userId: string;
     title: string;
     description?: string;
     imageUrl: string;

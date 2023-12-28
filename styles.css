@@ -38,6 +38,25 @@
     transform: translateY(1.2rem) translateX(1.5rem) scale(1.25);
 }
 
+
+.dialogi::-webkit-scrollbar {
+    width: 10px;
+}
+
+.dialogi::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 1px rgb(143, 127, 127);
+    border-radius: 10px;
+}
+
+.dialogi::-webkit-scrollbar-thumb {
+    background: rgb(143, 127, 127);
+    border-radius: 10px;
+}
+
+.swiper-pagination {
+    --swiper-pagination-color: #cdb6f8;
+}
+
 @media(max-width: 767px) {
 
     .shadow-about,

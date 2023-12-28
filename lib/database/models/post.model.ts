@@ -2,17 +2,22 @@ import { Document, Schema, model, models } from "mongoose";
 
 export interface IPost extends Document {
     _id: string;
+    userId: string;
     title: string;
     description?: string;
     imageUrl: string;
+    price: string;
     url?: string;
+    category: { _id: string, name: string }
 }
 
 const PostSchema = new Schema({
     title: { type: String, required: true },
     description: { type: String },
     imageUrl: { type: String, required: true },
-    url: { type: String }
+    price: { type: String },
+    url: { type: String },
+    category: { type: Schema.Types.ObjectId, ref: 'Category' }
 })
 
 const Post = models.Post || model('Post', PostSchema);

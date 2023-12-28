@@ -20,10 +20,11 @@ module.exports = withUt({
     extend: {
       colors: {
         one: {
-          1: '#ffeec9',
+          1: '#ffeecc',
           2: '#f8e7c1dd',
           3: '#f8e7c1f4',
-          4: '#f8e7c1aa'
+          4: '#f8e7c1aa',
+          5: '#fff9e0'
         },
         two: {
           1: '#635858',
@@ -31,7 +32,9 @@ module.exports = withUt({
         },
         three: {
           1: '#b28ce5',
-          2: '#b28ce5dd'
+          2: '#b28ce5dd',
+          3: '#cdb6f8',
+          4: '#e0cfff'
         },
         four: {
           1: '#ffffff',

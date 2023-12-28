@@ -1,22 +1,10 @@
 // ====== Product PARAMS
 export type CreateProductParams = {
+    userId: string
     product: {
         title: string
         description: string
         imageUrl: string
-        categoryId: string
-        price: string
-        url: string
-    }
-    path: string
-}
-
-export type UpdateProductParams = {
-    product: {
-        _id: string
-        title: string
-        imageUrl: string
-        description: string
         categoryId: string
         price: string
         url: string
@@ -56,38 +44,149 @@ export type Product = {
     }
 }
 
+// ====== Product PARAMS EN
+export type CreateProductParamsEn = {
+    userId: string
+    product: {
+        title: string
+        description: string
+        imageUrl: string
+        categoryId: string
+        price: string
+        url: string
+    }
+    path: string
+}
+
+export type DeleteProductParamsEn = {
+    productId: string
+    path: string
+}
+
+export type GetAllProductsParamsEn = {
+    query: string
+    category: string
+    limit: number
+    page: number
+}
+
+export type GetRelatedProductsByCategoryParamsEn = {
+    categoryId: string
+    productId: string
+    limit?: number
+    page: number | string
+}
+
+export type ProductEn = {
+    _id: string
+    title: string
+    description: string
+    price: string
+    imageUrl: string
+    url: string
+    category: {
+        _id: string
+        name: string
+    }
+}
+
 // ====== CATEGORY PARAMS
 export type CreateCategoryParams = {
     categoryName: string
 }
 
-// ====== ORDER PARAMS
-export type CheckoutOrderParams = {
-    productTitle: string
-    productId: string
-    price: string
-    isFree: boolean
-    buyerId: string
+// ====== Posts PARAMS
+export type CreatePostParams = {
+    userId: string
+    post: {
+        title: string
+        description: string
+        imageUrl: string
+        categoryId: string
+        price: string
+        url: string
+    }
+    path: string
 }
 
-export type CreateOrderParams = {
-    stripeId: string
-    productId: string
-    buyerId: string
-    totalAmount: string
-    createdAt: Date
+export type DeletePostParams = {
+    postId: string
+    path: string
 }
 
-export type GetOrdersByProductParams = {
-    productId: string
-    searchString: string
+export type GetAllPostsParams = {
+    query: string
+    category: string
+    limit: number
+    page: number
 }
 
-export type GetOrdersByUserParams = {
-    userId: string | null
+export type GetRelatedPostsByCategoryParams = {
+    categoryId: string
+    postId: string
     limit?: number
-    page: string | number | null
+    page: number | string
 }
+
+export type Post = {
+    _id: string
+    title: string
+    description: string
+    price: string
+    imageUrl: string
+    url: string
+    category: {
+        _id: string
+        name: string
+    }
+}
+
+// ====== Posts PARAMS
+export type CreatePostParamsEn = {
+    userId: string
+    post: {
+        title: string
+        description: string
+        imageUrl: string
+        categoryId: string
+        price: string
+        url: string
+    }
+    path: string
+}
+
+export type DeletePostParamsEn = {
+    postId: string
+    path: string
+}
+
+export type GetAllPostsParamsEn = {
+    query: string
+    category: string
+    limit: number
+    page: number
+}
+
+export type GetRelatedPostsByCategoryParamsEn = {
+    categoryId: string
+    postId: string
+    limit?: number
+    page: number | string
+}
+
+export type PostEn = {
+    _id: string
+    title: string
+    description: string
+    price: string
+    imageUrl: string
+    url: string
+    category: {
+        _id: string
+        name: string
+    }
+}
+
 
 // ====== URL QUERY PARAMS
 export type UrlQueryParams = {
