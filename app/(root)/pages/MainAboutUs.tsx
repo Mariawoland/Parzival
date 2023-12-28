@@ -26,7 +26,7 @@ export default function MainAboutUs() {
 
                 <div data-aos="fade-right" className="lg:w-[64%] w-full float-right relative top-0 right-0 lg:ps-10 md:block hidden lg:pb-4 md:pb-8 pb-4">
                     <img
-                        src="/assets/images/main/img2.jpg" alt="About Us Photo"
+                        src="/assets/images/main/img2.JPG" alt="About Us Photo"
                         className="w-full rounded-3xl"
                     />
 
@@ -42,7 +42,7 @@ export default function MainAboutUs() {
 
                 <div data-aos="fade-right" className="lg:w-[64%] w-full float-right relative top-0 right-0 py-6 lg:ps-10 md:hidden block">
                     <img
-                        src="/assets/images/main/img2.jpg" alt="About Us Photo"
+                        src="/assets/images/main/img2.JPG" alt="About Us Photo"
                         className="w-full rounded-3xl"
                     />
 
