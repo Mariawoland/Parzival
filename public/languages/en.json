@@ -1,0 +1,447 @@
+{
+    "navbar": {
+        "navbarListMain": [
+            {
+                "title": "Home",
+                "href": "/"
+            },
+            {
+                "title": "About",
+                "href": "/about_us"
+            },
+            {
+                "title": "Projects",
+                "href": "/projects"
+            },
+            {
+                "title": "Shop",
+                "href": "/shop"
+            },
+            {
+                "title": "Donation",
+                "href": "/donation"
+            }
+        ],
+        "navbarListOne": [
+            {
+                "id": 1,
+                "title": "Our Story",
+                "href": "/about_us#one"
+            },
+            {
+                "id": 2,
+                "title": "Why Parzival?",
+                "href": "/about_us#two"
+            },
+            {
+                "id": 3,
+                "title": "Our Team",
+                "href": "/about_us#three"
+            }
+        ],
+        "navbarListTwo": [
+            {
+                "id": 1,
+                "title": "School",
+                "href": "/school"
+            },
+            {
+                "id": 2,
+                "title": "Seminar",
+                "href": "/seminar"
+            },
+            {
+                "id": 3,
+                "title": "Garden",
+                "href": "/garden"
+            },
+            {
+                "id": 4,
+                "title": "Workshop",
+                "href": "/workshop"
+            },
+            {
+                "id": 5,
+                "title": "Ride Therapy",
+                "href": "/ridetherapy"
+            }
+        ]
+    },
+    "hero": {
+        "text1": "So, It Is Your Turn To Become Parzival's Knight",
+        "text2": [
+            "/assets/images/main/text/1.png",
+            "/assets/images/main/text/2.png",
+            "/assets/images/main/text/3.png"
+        ],
+        "text3": "Become Parzival's Knight",
+        "text4": "Learn More",
+        "text5": "Terms and Conditions",
+        "background": "/assets/images/main/img1men.png"
+    },
+    "about_us_main": [
+        "About Us",
+        "We are Youth Society Parzival from Georgia.",
+        "The path we have taken so far includes a variety of artistic and social activities. In 2020, the pandemic has brought many social issues to us, one of which is education. That is why we have oriented ourselves in the direction of pedagogy.",
+        "We decided to build an educational space based on the principles of Waldorf education in one of the Georgian villages, Matsevani. The school is also intended for children living in neighboring villages.",
+        "Our main goal is to plan, promote and implement educational/social initiatives of young people in various directions. In the future, we would like to create a community in this village where the activities of each individual are organically connected.",
+        "Learn More"
+    ],
+    "about": {
+        "text": [
+            "Our Story",
+            "Our story begins in 2016. Through the years many likeminded people have joined and left the group, lots of ideas were born, implemented or canceled, but the path we've taken so far has led us to today.",
+            "Group's first activities included a variety of artistic and social activities. Events took a turn in 2020. The pandemic has brought many social issues to us, one of which is education. That is why we have oriented ourselves in the direction of pedagogy. We decided to build an educational space based on the principles of Waldorf education in one of the Georgian villages, Matsevani. The school is also intended for children living in neighboring villages.",
+            "Our main goal is to plan, promote and implement educational/social initiatives of young people in various directions. In the future, we would like to create a community in this village where the activities of each individual are organically connected.",
+            "Why Parzival?",
+            "We didn't think much about the name - Parzival. Because the hero of the epic is an important role model for us.",
+            "Parzival is the character in the epic poem by Wolfram von Eschenbach. He was a knight who went through a long and difficult path before he found the truth, divine wisdom, and therefore God. According to the poem, he was the last king and guardian of the holy Grail.",
+            "Inspired by this story, Richard Wagner wrote an opera called Parsifal, which was his last composition."
+        ],
+        "video": "https://www.youtube.com/embed/QmcX2bUco-4?si=R4AmhJXuFYWqWaOn",
+        "members": {
+            "title": "Our Team",
+            "description": "We are a group of friends united around a common idea. We are all very different in character, but the most important thing that connects us – is to change society with healthy impulses.",
+            "member": [
+                {
+                    "id": 1,
+                    "name": "Sophie Khadurishvili",
+                    "description": "26 years old. She graduated faculty of psychology and educational sciences as a bachelor and organization development and consulting as master. Currently, she is leading Parzival weekend school.",
+                    "image": "/assets/images/about/img3.webp"
+                },
+                {
+                    "id": 2,
+                    "name": "Ani Jibghashvili",
+                    "description": "26 years old. She has a bachelor's degree in economics and a master's degree in organization development and consulting. Currently, she is leading Parzival weekend school.",
+                    "image": "/assets/images/about/img4.webp"
+                },
+                {
+                    "id": 3,
+                    "name": "Nikoloz Kanchaveli",
+                    "description": "27 years old. He graduated faculty of social and political sciences as a bachelor and organization development and consulting as master. Currently, he is leading Parzival youth seminar.",
+                    "image": "/assets/images/about/img5.webp"
+                },
+                {
+                    "id": 4,
+                    "name": "Natia Kobalia",
+                    "description": "25 years old. She has a bachelor's degree in social sciences. She is a teacher of social studies in private school in Tbilisi. Also, she teaches clay art at Parzival weekend school.",
+                    "image": "/assets/images/about/img6.webp"
+                },
+                {
+                    "id": 5,
+                    "name": "Sofio Gzirishvili",
+                    "description": "23 years old. Has a bachelor's degree in psychology. She is currently a teacher at Parzival School. She has experience in working with children with autism spectrum and Down syndrome.",
+                    "image": "/assets/images/about/img7.jpeg"
+                },
+                {
+                    "id": 6,
+                    "name": "Beka Kvrivishvili",
+                    "description": "25 years old. He graduated faculty of civil engineering. Now he is a teacher at Parzival weekend school.",
+                    "image": "/assets/images/about/img8.webp"
+                },
+                {
+                    "id": 7,
+                    "name": "Ninia Goiadze",
+                    "description": "28 years old. She graduated faculty of psychology and educational sciences as a bachelor. Currently, she works in Tbilisi Free Waldorf School as a class teacher. She also works on a hippotherapy project.",
+                    "image": "/assets/images/about/img9.webp"
+                },
+                {
+                    "id": 8,
+                    "name": "Giorgi Ekizashvili",
+                    "description": "27 years old. He has two bachelor's degrees in law and psychology. He is a therapeutic teacher. Currently, he is leading and working on a project about hippotherapy.",
+                    "image": "/assets/images/about/img10.webp"
+                },
+                {
+                    "id": 9,
+                    "name": "Nino Kobaidze",
+                    "description": "27 years old. She graduated faculty of medicine. She is interested in anthroposophical medicine and taking various courses. She also works on a hippotherapy project.",
+                    "image": "/assets/images/about/img11.webp"
+                },
+                {
+                    "id": 10,
+                    "name": "Ilia Dundua",
+                    "description": "26 years old. He has a bachelor's degree in psychology and educational sciences. Currently, he is a house manager at Parzival educational space.",
+                    "image": "/assets/images/about/img12.webp"
+                },
+                {
+                    "id": 11,
+                    "name": "Mariam Kvirtia",
+                    "description": "26 years old. She graduated faculty of psychology and educational sciences. Currently, she is responsible for communication with Parzival`s international friends.",
+                    "image": "/assets/images/about/img13.webp"
+                },
+                {
+                    "id": 12,
+                    "name": "Davit Kvrivishvili",
+                    "description": "27 years old. He graduated faculty of architecture. Currently, he is studying in Germany.",
+                    "image": "/assets/images/about/img14.webp"
+                }
+            ]
+        }
+    },
+    "school": {
+        "text1": [
+            "Parzival School",
+            "Parsifal weekend School is the first successful project of our group. The school started functioning in October 2022. Its main goal is to help children aged 9 to 14 to develop personal skills.",
+            "Students of Parsifal School receive alternative education, participate in cultural events and get thoroughly acquainted with various fields.",
+            "Registration"
+        ],
+        "text2": [
+            "Methodology and Ideology",
+            "We believe that pedagogy is one of the most worthy rights of human development. The right educational space for a children is extremely important and it determines their future life.",
+            "We share and follow the Waldorf pedagogy. This approach is based on the process of learning through self-realization, which takes into account the physical, social, emotional and spiritual growth of a person in a complex way,",
+            "During the phase of developing the educational syllabus and interacting with the students, the pedagogical team relies on anthroposophical research on human development. When learning about different topics, the students get to know the subject, not only in a theoretical direction, but also transfer this knowledge to practical work with the help of a needlework lesson."
+        ],
+        "text3": [
+            "The learning process",
+            "During the year, the educational process is divided into three eras: autumn-winter, winter-spring and spring-summer era. During each era, learning subjects are selected according to the nature of the season and the psycho-social development of students.",
+            "We follow the project style of teaching. During the era we choose one big project, during the implementation of which we learn everything that is necessary to achieve the goal.",
+            "Detailed description of the program"
+        ],
+        "text4": [
+            "Groups and Programs",
+            "There are currently two age groups in the school, 8-10 years old and 11-14 years old. Students are admitted at the beginning of each term, based on registration (September, January and April).",
+            "In addition, taking into account the interests and needs of students, we create various thematic clubs. These circles are focused on the development of logical and analytical skills of teenagers. At the moment, a board games club has been created, and we plan to add other thematic circles in the future.",
+            "Join the Board Games Club"
+        ]
+    },
+    "seminar": {
+        "text1": [
+            "Parzival Youth Seminar",
+            "In the modern world, where the diversity of professions is eyeing us - professional orientation is a kind of challenge for young people.",
+            "Sometimes young people feel lost in the maze of professions and unconsciously make a decision when choosing a future profession because they do not properly know themselves and their abilities.",
+            "The goal of the Parzival Youth Seminar is to assist young people from 18 to 27 years old in professional and life orientation.",
+            "Check the detailed program here"
+        ],
+        "text2": [
+            "First Steps",
+            "Before starting the full one-year course, we decided to create two pilot programs. Within the framework of the first, self-awareness course, the participants spent six weekends in the village of Matsevani, where they:",
+            "• They worked on their own biography",
+            "• The internal constitution of a person was discussed",
+            "• Improved creative and perceptive skills",
+            "• Get to know the basic principles of Social Threefolding",
+            "• They got acquainted with the art of acting and worked on the art of speech, its expression and meaning in epic, lyric and drama.",
+            "At the same time, participants had individual sessions with a coach for professional orientation.",
+            "Within the framework of the second course, creating a project, the participants got to know the basic principles of writing a project application and budgeting. Later, they had the opportunity to implement their ideas into reality within the framework of the symbolic budget.",
+            "The participants decided to beautify Parzival's yard:",
+            "✔ Maintained and updated the existing fire angle;",
+            "✔ Entertainment and educational installations were created;",
+            "✔ solar powered outdoor lights were installed;",
+            "For more information about the courses taken, visit our Facebook page."
+        ],
+        "text3": [
+            "https://www.youtube.com/embed/zf_Z2TcxbvU?si=_WOX2EX7Dn77j-SJ",
+            "Participants' impression",
+            "Participants' impression In this video, the participants of the youth seminar share their impressions of the pilots we have taken.",
+            "Apologies, the voice of the participants is not well heard in the video, although it is interesting to watch 👂🏻🎧"
+        ],
+        "text4": [
+            "General Introduction",
+            "The three main principles of the youth seminar are: Cognition, self-determination and professional orientation.",
+            "The three main trimesters of the academic year of the seminar are also a reflection of the main principles. Each of them has its own character and purpose in the teaching process.",
+            "During the one-year course of the workshop, the participants will have the opportunity to get to know themselves better and ask the main research questions: Who am I? What do I want to achieve? what inspires me?",
+            "The one-year course, which - is balanced with intellectual, artistic, social and practical teaching methods - will help participants to see the comprehensive picture of Humans - through understanding history and present and future challenges.",
+            "A variety of artistic activities, such as painting, clay modeling, speech exercises and acting - will help to develop the creative skills of the young person."
+        ],
+        "text5": [
+            [
+                "About Subjects",
+                "Trimester I",
+                "Trimester II",
+                "Trimester III"
+            ],
+            [
+                "About",
+                "I",
+                "II",
+                "III"
+            ],
+            [
+                "/assets/images/seminar/img5.webp",
+                "/assets/images/seminar/img7.png",
+                "Learn more about the trimesters and subjects of Seminar",
+                "During the one-year course of the Parsifal Youth Workshop, you will take six main subjects, and during the third trimester, you will have the opportunity to study project writing, test yourself in project management and implementation. In addition, in the third trimester, you will attend a seminar in the direction of career and professional counseling. This seminar will help you in career development and planning."
+            ],
+            [
+                "Cognition",
+                "Through Cognition, A Philosophical Review of Humans and the Development of Human Consciousness",
+                "Human consciousness",
+                "Art is a means of human action or creativity, self-expression or self-awareness.",
+                "Within the framework of this course - theoretical and practical, with the help of exercises, we will try to take a look at well-known examples of visual art (from the Neolithic era, including ultra-modern art forms) and discover the metamorphosis of the human image, we will try to understand how art reflects the upward or downward dynamics of evolution in this or that era and by what principle it shows us the general human consciousness and the gene of existence stimulated by consciousness.",
+                "Lecturer Goga Japaridze",
+                "Artist",
+                "Human today",
+                "To answer the question who am I? We need to know who a person is, or in general what a person thinks about himself.",
+                "Finding out the relevant, important issues for the participants, selecting and discussing the most pressing topics.",
+                "Lecturer Marina Bulia",
+                "Social therapist, psychologist",
+                "Thinking and Philosophy",
+                "Participants will review twelve major philosophical worldviews and discuss the philosophy of freedom - what role free will plays in proper human development.",
+                "Along with the theoretical discussion, the subject will be loaded with creative exercises and games, which will help the participants to see the content more vividly.",
+                "Lecturer Vladimir Khvitia",
+                "Waldorf-pedagogue, Heil-pedagogue"
+            ],
+            [
+                "Self-determination",
+                "Through creative exercises - studying one's own biography, character, temperament, social world",
+                "My biography",
+                "A man's biography is his main creation. This is a path that a person must consciously walk. Within this subject, participants review the key moments of a person's biography and determine their cause and effect. Working on and observing one's own biography, discussing biographical trends and regularities of biography phases.",
+                "Lecturer Lali Asambiani",
+                "Anthroposophic doctor, biographical consultant",
+                "The social world around me",
+                "Discussion of social phenomena and principles. What social, political and ideological issues and trends are driving today and how can an individual act in the modern world. Participants will also get to know the principle of social Threefolding, which offers innovative visions regarding the organization of the modern world.",
+                "Lecturer Rati Amaglobeli",
+                "Poet",
+                "You and I, in our Age",
+                "Human relationships and their healthy relationship in a social context. In the current subject, emphasis is placed on those inner qualities and characteristics of a person, which unconsciously affect our daily decisions. Through clay and paint work, art therapy, and various social exercises, the four basic human temperaments will be explored.",
+                "Lecturer Shoko Mosashvili",
+                "Social and art therapist"
+            ],
+            [
+                "Professional Orientation",
+                "Action, the way to make your idea a reality",
+                "Career counseling",
+                "How to get to know myself better, abilities, skills. How to turn my weaknesses into my strengths. Choose the profession I want, enter the labor market and plan the appropriate steps for a successful career.",
+                "Participants will have the opportunity to get to know themselves better with the help of various techniques. choose the profession they want, plan the steps for a successful career. To learn the correct communication with the employer and to present oneself correctly at the interview.",
+                "The subject will be considered mastered if the participant attends at least 4 meetings and completes at least 4 tasks.",
+                "Lecturer Tatia Kachashvili",
+                "Career consultant",
+                "Creating a Project",
+                "How to turn an idea into reality. Participants have the opportunity to test their skills and abilities on the way to project implementation.",
+                "Participants will learn the basic principles of project writing, budgeting and implementation. In case of successful utilization of the material, they will think of their desired social project and will have the opportunity to implement their idea on a practical level within the framework of a symbolic amount.",
+                "The subject will be considered closed when each participant completes the project and presents a detailed evaluation of the project implementation."
+            ]
+        ],
+        "text6": [
+            "Terms and Conditions",
+            "Learning rhythm",
+            "The duration of each subject is three weeks. Lectures will be held twice a week, on weekdays, in Tbilisi (at the Social Therapy House and CTC workspace). The evening hours are selected as the lecture time, in order not to disturb the participants in their personal activities.",
+            "Each subject will be closed with a two-day summative event in the village of Matsevani, where the participants will review and summarize the main issues of the subjects covered.",
+            "The subjects are not conducted parallel to each other, but one after the other. This means that the participants work on one issue (subject) for one month. And only after closing it, do they move on to the next topic. Accordingly, the final event will be held once a month.",
+            "I trimester: October - December",
+            "II trimester: January - March",
+            "III trimester: April – June",
+            "Tuition Fee",
+            "The fee for each trimester is 500 GEL, which includes all the participant's technical expenses - stationery, travel, meals, and accommodation in the village of Matsevani.",
+            "Payment is made before the start of each trimester. It is possible to divide the amount and pay in stages."
+        ]
+    },
+    "garden": {
+        "text1": [
+            "Parzival Biodynamic Garden",
+            "Living in the village so that we wouldn't get close to farming would be incredible. Our value is to establish a harmonious and healthy relationship with nature. So we started biodynamic gardening.",
+            "We want to produce biologically clean and high-quality products without damaging the soil in a way that makes these activities profitable. We believe that through our work many other people will also want to participate in the healing of nature, because the care of a biodynamic garden is presented with many people."
+        ],
+        "text2": [
+            "Purpose",
+            "Agriculture applies to everyone, and the problems in this direction are reflected in all of us - due to improper soil treatment, consumer dependence on nature, we have received thousands of exhausted land and vegetables grown with poisonous chemicals.",
+            "Our goal is primarily to raise awareness in the field of agriculture. We want to learn and share with others what each individual can do to build a healthy relationship with the environment. We believe that our work will contribute to the interest of young people in the activities of a gardener or farmer."
+        ],
+        "text3": [
+            "Bagcha 600m2",
+            "We began to achieve our great goals with a small garden. From the spring of 2023, we started sowing the first seeds of different plants and harvested until late autumn. With our grown vegetables, we proudly hosted the guests who came to the store, started producing a small number of products with the `harvest` of medicinal herbs and bought the first loyal customers. During this period, we met many people who helped us with new knowledge and advice. We also presumptuously grew a small garden to 600 m2. Bagcha 600 m2  will have a teaching purpose for any interested person and will provide food for our initiatives. To further increase our garden, we will start realization, yes, we will! Symbolically, we named the products produced in our garden “Baghcha 600m2 “, so that even a small area can achieve great goals."
+        ],
+        "text4": [
+            "Volunteering Program",
+            "Working with the ground, in our own experience, is very pleasant, useful and therapeutic. In addition, it is quite time-consuming and has long working hours. Therefore, engagement, help, and support of any person becomes as necessary as the air. A completely different mood brings nature to working with other people and spending time with them and talking with them.",
+            "We host everyone who wants to work in our garden. It can be one day or systematically. Why should you want to work on the ground? There are many good reasons! Spending time in nature, relaxing, charging with positive emotions, getting closer to nature, spending energy pleasantly, tasting a biologically clean product, studying a new profession, acquiring new skills, or maybe just getting to know us?",
+            "If you have already chosen a reason, contact us, we are already waiting for you!"
+        ]
+    },
+    "workshop": {
+        "text1": [
+            "Parzival Workshop",
+            "The desire and idea of building a workshop space born with inspiration of our students. We saw what kind of pleasure was the process of working on clay for our students. Also, craft lessons were helpful for them in the way of developing. Along with clay, from them came the desire to study woodwork.",
+            "Today, we do not yet have a workshop building, where students will fully study various crafts, however, work on the project has begun.",
+            "Visit Our Instagram Page"
+        ],
+        "text2": [
+            "Purpose",
+            "Nowadays, crafts are considered unpopular activities. It is becoming more and more rare for professional masters to pursue a particular craft. On the one hand, we want to promote forgotten crafts and on the other hand, to use handicraft as an opportunity for the physical, mental, and emotional development of our students.",
+            "Our goal is to create an alternative space that, together with the production of separate products, will contribute to the development of various initiatives and projects in the Parzival space. According to our perspective, the Parzival workshop should become a place where we will be able to produce healthy products and teach the students."
+        ],
+        "text3": [
+            "Main Masters",
+            "While building an educational space in the village of Matsevani, we realized that the craft is a lot of fun, and we even come with it. Parzival Workshop today has two main masters - Natia and Guga. Natia works on clay and makes beautiful merchandise, and Guga sculpts the tree like plasticine. Guga and Natia are currently teachers. They like their own activities, which also affects students and it is enough to take one lesson, students immediately love the activities that our masters lead."
+        ],
+        "text4": [
+            "#madeinparzival",
+            "Before building a workshop and working on implementing the physical face of this idea has begun, but we are impatient people. That's why we started the #madeinparzival project.",
+            "madeinparzival is a social enterprise. We sell handmade items made in Parzival, and the proceeds from the items sold are used to develop our social-educational initiatives.",
+            "In addition to clay and woodwork, you will also find many different kind of products on the  Madeinparzival platform.",
+            "Visit our Instagram page"
+        ]
+    },
+    "ridetherapy": {
+        "text1": [
+            "Ridetherapy",
+            "We believe that in order to create a full-fledged ecosystem, a child should have active contact with both plants and animals. This makes the education process healthier, more interesting, and helps it establish the right relation to the outside world.",
+            "To do this, we decided to promote the breeding of animals and birds next to the Smoking Weekend School and engage them in a harmonious form in the learning process. We start implementing this idea by building a headboard and riding a horse."
+        ],
+        "text2": [
+            "Purpose",
+            "Our goal is to create a naturally therapeutic environment based on healthy human relationships and forms of activity that will motivate the right relationship with nature in adolescents and adults.",
+            "With the development of this project, we believe that we will contribute to the development of animal interaction therapy. In everyday life, horses and other animals/birds will be harmoniously engaged. Their resources will be used both for therapeutic and educational purposes and in the household direction."
+        ],
+        "text3": [
+            "Barn",
+            "First of all, the desire to build a tavel in the village of Matsakhani was aroused by the study of the positive and therapeutic impact of horses on the development of the child. It is recognized that hippotherapy/ridetherapy is beneficial for a person's physical, psychological, emotional, and social health. In addition, horse racing has a beneficial effect on adolescents with various physical, mental, or emotional health problems. The implementation of the Taveli project will enable us to contribute to the development of horse therapy (hippotherapy/ridetherapy), horse riding sports and equestrian tourism. In the spring of 2023, together with Mr. Dimitri Tiplava, we conducted a theoretical ridetherapy training course, which received great approval among the participants. "
+        ]
+    },
+    "donation": {
+        "slide1": [
+            "BE PART OF OUR INITIATIVE, BECOME PARZIVAL'S KNIGHT",
+            "Parzival School Building is an ideal example of community engagement.",
+            "Our team and work were supported by a very large group in the process of school construction. In addition to the funds and individuals who supported us financially, there was a large team of volunteer workers next to us. From the very first day of the school construction, our friends, friends of friends, sometimes completely strangers came to the Matsevani with their own desire to contribute their energy into the initiation of Parzival.",
+            "That time we saw what the society can do when they have the same goal. That is why we decided to give an opportunity to worldwide community and especially Georgian one to put their contribution to create the healthier environment for the present and future generations.",
+            "So, we are trying to pack a squad of Parzival knights, join us in our journey.",
+            "Become Parzival's Knight"
+        ],
+        "slide2": [
+            "Let us tell you about our experience",
+            "During the building process, we faced a terrible financial crisis and we had no opportunity to continue working. However, followers of our social networks did not allow us to stop the construction process. With their financial support, even a minimal number of contributions, we were able to make valuable savings, which charged us with a different kind of motivation and force not to give up.",
+            "At this time, we saw that social activities are not an initiative and duty of one particular group, we are all involved in this process together. And only in this case do we achieve our goal, only by working together we restore the community around us."
+        ],
+        "slide3": [
+            "It was for this reason that we had a 'wall of gratitude' at school. The wall contained the names of all people who expressed physical, financial, and moral support for our work. Today, these walls strengthen the main entrance to the school. Although the names are no longer visible, we remember and appreciate the contributions of each person or organization.",
+            "Now, we want to move the physical wall online, which will no longer be painted and will remain visible all the time."
+        ]
+    },
+    "cart": [
+        "My Cart",
+        "Price: "
+    ],
+    "projectNav": {
+        "school": [
+            "Methodology",
+            "Learning process",
+            "Groups",
+            "Additional Projects",
+            "Gallery"
+        ],
+        "seminar": [
+            "History",
+            "One-year course",
+            "Subjects and Activities",
+            "Terms and Conditions"
+        ],
+        "workshop": [
+            "Purpose",
+            "Masters",
+            "Made In Parzival",
+            "Our Products",
+            "Gallery"
+        ],
+        "garden": [
+            "Purpose",
+            "Garden 600 m",
+            "Volunteer program",
+            "Our Products",
+            "Gallery"
+        ],
+        "ridetherapy": [
+            "Purpose",
+            "Barn",
+            "Gallery"
+        ]
+    }
+}

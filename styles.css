@@ -1,0 +1,250 @@
+.forverbackground {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-image: url('/assets/backgrounds/img1.png');
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    z-index: -100;
+}
+
+.shadow-about {
+    box-shadow: 25px 25px #b28ce5dd;
+}
+
+.shadow-school {
+    box-shadow: 25px 25px #F0D96Add;
+}
+
+.shadow-seminar {
+    box-shadow: 25px 25px #f19586dd;
+}
+
+.shadow-garden {
+    box-shadow: 25px 25px #c2d8b2dd;
+}
+
+.shadow-workshop {
+    box-shadow: 25px 25px #BDBEFFdd;
+}
+
+.shadow-ridetherapy {
+    box-shadow: 25px 25px #ffc17edd;
+}
+
+.pClass1:hover .pImage1,
+.pClass2:hover .pImage2,
+.pClass3:hover .pImage3,
+.pClass4:hover .pImage4,
+.pClass5:hover .pImage5 {
+    opacity: 0.6;
+}
+
+.pClass1:hover .pLink1,
+.pClass3:hover .pLink3,
+.pClass5:hover .pLink5 {
+    transform: translateY(-1.2rem) translateX(-1.5rem) scale(1.25);
+}
+
+.pClass2:hover .pLink2,
+.pClass4:hover .pLink4 {
+    transform: translateY(1.2rem) translateX(1.5rem) scale(1.25);
+}
+
+
+.dialogi::-webkit-scrollbar {
+    width: 10px;
+}
+
+.dialogi::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 1px rgb(143, 127, 127);
+    border-radius: 10px;
+}
+
+.dialogi::-webkit-scrollbar-thumb {
+    background: rgb(143, 127, 127);
+    border-radius: 10px;
+}
+
+.swiper-pagination {
+    --swiper-pagination-color: #cdb6f8;
+}
+
+.loader {
+    z-index: 5000;
+    position: fixed;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    height: 100vh;
+    width: 100vw;
+    background-color: #2d02ad;
+}
+
+textarea {
+    white-space: pre-line;
+}
+
+.customTabs:focus {
+    border: none;
+    outline: none;
+}
+
+.customTabs.react-tabs__tab--selected {
+    background-color: #d35c4a;
+    color: #ffffd2;
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+}
+
+.activePanel.react-tabs__tab-panel--selected {
+    border-radius: 0 0 1rem 1rem;
+}
+
+@keyframes change {
+    from {
+        overflow: hidden;
+    }
+
+    to {
+        overflow: visible;
+    }
+}
+
+.pentagon {
+    overflow: visible;
+    animation-name: change;
+    animation-duration: 10s;
+}
+
+
+.customHeight {
+    height: 100%;
+}
+
+@keyframes image1 {
+    from {
+        left: -100%;
+        top: -100%;
+    }
+
+    to {
+        left: 0;
+        top: 0;
+    }
+}
+
+@keyframes image2 {
+    from {
+        right: -100%;
+        top: -100%;
+    }
+
+    to {
+        right: 0;
+        top: 0;
+    }
+}
+
+@keyframes image3 {
+    from {
+        right: -100%;
+        bottom: -100%;
+    }
+
+    to {
+        right: 0;
+        top: 195px;
+    }
+}
+
+@keyframes image4 {
+    from {
+        bottom: -200%;
+    }
+
+    to {
+        bottom: 0;
+    }
+}
+
+@keyframes image5 {
+
+    from {
+        left: -200%;
+    }
+
+    to {
+        left: 0;
+    }
+}
+
+.projectsImage1 {
+    animation-name: image1;
+    animation-duration: 3s;
+}
+
+.projectsImage2 {
+    animation-name: image2;
+    animation-duration: 3s;
+}
+
+.projectsImage3 {
+    animation-name: image3;
+    animation-duration: 3s;
+}
+
+.projectsImage4 {
+    animation-name: image4;
+    animation-duration: 3s;
+}
+
+.projectsImage5 {
+    animation-name: image5;
+    animation-duration: 3s;
+}
+
+@media(max-width: 767px) {
+
+    .shadow-about,
+    .shadow-school,
+    .shadow-seminar,
+    .shadow-garden,
+    .shadow-workshop {
+        box-shadow: none;
+    }
+
+    .donationbackground {
+        background-image: url('/assets/images/donation/img1m.png');
+    }
+
+    @keyframes image3 {
+        from {
+            right: -100%;
+            bottom: -100%;
+        }
+
+        to {
+            right: 0;
+            top: 120px;
+        }
+    }
+}
+
+@media(max-width: 640px) {
+
+    @keyframes image3 {
+        from {
+            right: -100%;
+            bottom: -100%;
+        }
+
+        to {
+            right: 0;
+            top: 120px;
+        }
+    }
+}
