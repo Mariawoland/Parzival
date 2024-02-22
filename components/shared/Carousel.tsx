@@ -1,5 +1,5 @@
 "use client";
-import React, { useRef, useState, FC } from 'react';
+import React, { useState, FC } from 'react';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/css';
 import 'swiper/css/free-mode';
@@ -13,7 +13,8 @@ interface CarouselProp {
 }
 
 const Carousel: FC<CarouselProp> = ({ Images }) => {
-    const [thumbsSwiper, setThumbsSwiper] = useState(null);
+    const [thumbsSwiper, setThumbsSwiper] = useState<any | null>(null);
+
 
     return (
         <>
@@ -34,7 +35,7 @@ const Carousel: FC<CarouselProp> = ({ Images }) => {
             </Swiper>
 
             <Swiper
-                onSwiper={setThumbsSwiper}
+                onSwiper={(swiper: any) => setThumbsSwiper(swiper)}
                 loop={true}
                 spaceBetween={10}
                 slidesPerView={4}
