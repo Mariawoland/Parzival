@@ -37,7 +37,7 @@ export default function MainAboutUs() {
                 <div data-aos="fade-right" className="lg:w-[56%] w-full relative">
 
                     <img
-                        src="/assets/images/main/img9.JPG" alt="About Us Photo"
+                        src="/assets/images/main/img9.jpg" alt="About Us Photo"
                         className="w-full h-full rounded-3xl  object-cover"
                     />
 

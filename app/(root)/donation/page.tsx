@@ -64,10 +64,7 @@ const Page = () => {
     return (
         <div>
 
-            <Image width={1000} height={600} alt="photo" className="fixed inset-0 w-full h-screen -z-[100] object-cover md:flex hidden" style={{ opacity: scrollOpacity, transition: 'opacity 0.3s ease' }} src={'/assets/images/donation/img1.png'} />
-
-            <Image width={600} height={1000} alt="photo" className="fixed inset-0 w-full h-screen -z-[100] object-cover md:hidden flex" style={{ opacity: scrollOpacity, transition: 'opacity 0.3s ease' }} src={language === "ka" ? kaText.hero.background : enText.hero.background} />
-
+            <Image width={1000} height={600} alt="photo" className="fixed inset-0 w-full h-screen -z-[100] object-cover" style={{ opacity: scrollOpacity, transition: 'opacity 0.3s ease' }} src={'/assets/images/donation/img1.png'} />
 
             <div className='w-full px-[6%] py-[3%]'>
                 <div className='w-full p-[6%] text-center text-two-2 md:text-sm sm:text-xs text-[10px] leading-relaxed md:border-4 border-seven-4 rounded-3xl'>
@@ -137,12 +134,12 @@ const Page = () => {
             <>
                 <div className="relative max-w-screen h-[88vh] pt-0 px-0 m-0 flex items-center justify-center">
 
-                    <div className='w-full h-full absolute md:flex hidden -z-10'>
-                        <img src={texts?.hero.text2[0]} data-aos="fade-left" className='absolute lg:w-[42vw] w-[52vw] top-[8%] left-[8%]' />
+                    <div className='w-full h-full absolute -z-10'>
+                        <img src={texts?.hero.text2[0]} data-aos="fade-left" className='absolute md:w-[42vw] w-[85vw] top-[8%] md:left-[8%] left-[5vw]' />
 
-                        <img src={texts?.hero.text2[1]} className='absolute lg:w-[55vw] w-[65vw] top-[26%] lg:right-[5%] right-[8%]' data-aos="fade-right" />
+                        <img src={texts?.hero.text2[1]} className='absolute md:w-[55vw] w-[85vw] top-[26%] md:left-[38vw] left-[5vw]' data-aos="fade-right" />
 
-                        <img src={texts?.hero.text2[2]} className='absolute lg:w-[55vw] w-[65vw] top-[50%] lg:left-[23%] left-[18%]' data-aos="fade-left" />
+                        <img src={texts?.hero.text2[2]} className='absolute md:w-[55vw] w-[85vw] top-[50%] lg:left-[23%] md:left-[18%] left-[5vw]' data-aos="fade-left" />
                     </div>
 
 

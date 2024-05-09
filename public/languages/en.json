@@ -345,6 +345,26 @@
             "Working with the ground, in our own experience, is very pleasant, useful and therapeutic. In addition, it is quite time-consuming and has long working hours. Therefore, engagement, help, and support of any person becomes as necessary as the air. A completely different mood brings nature to working with other people and spending time with them and talking with them.",
             "We host everyone who wants to work in our garden. It can be one day or systematically. Why should you want to work on the ground? There are many good reasons! Spending time in nature, relaxing, charging with positive emotions, getting closer to nature, spending energy pleasantly, tasting a biologically clean product, studying a new profession, acquiring new skills, or maybe just getting to know us?",
             "If you have already chosen a reason, contact us, we are already waiting for you!"
+        ],
+        "cards": [
+            {
+                "title": "Calendula Ointment and Lip Balm",
+                "text": "We can't say that we discovered it, but ointment worked for us. It soothes irritated skin and is also ideal for moisturizing dry skin.",
+                "textg": "Ingredients: calendula flower from our garden, olive oil (extra virgin), beeswax.",
+                "img": "/assets/images/garden/01.jpg"
+            },
+            {
+                "title": "Drink tea",
+                "text": "It was not Eureka either, although it gets great love from costumers. They say that it is the enemy of insomnia and is friends with sweet dreams.",
+                "textg": "Ingredients: calendula flower, mint, Lemon balm and sage. All from our garden, of course.",
+                "img": "/assets/images/garden/02.jpg"
+            },
+            {
+                "title": "MicroHerbs",
+                "text": "Maybe you aren't chef, but it makes even the simplest sandwich amazing. We'll give you grown microherbs, fresh seeds, and explain how to take care of it. Here's an fishing pole and fishing lessons.",
+                "textg": "We can offer you the following microherbs: Radish, Sunflower, Mustard.",
+                "img": "/assets/images/garden/03.jpg"
+            }
         ]
     },
     "workshop": {
