@@ -70,9 +70,9 @@
     "hero": {
         "text1": "So, It Is Your Turn To Become Parzival's Knight",
         "text2": [
-            "/assets/images/donation/text/img1.png",
-            "/assets/images/donation/text/img2.png",
-            "/assets/images/donation/text/img3.png"
+            "/assets/images/donation/text/img1en.png",
+            "/assets/images/donation/text/img2en.png",
+            "/assets/images/donation/text/img3en.png"
         ],
         "text3": "Become Parzival's Knight",
         "text4": "Learn More",
