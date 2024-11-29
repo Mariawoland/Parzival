@@ -70,14 +70,14 @@
     "hero": {
         "text1": "So, It Is Your Turn To Become Parzival's Knight",
         "text2": [
-            "/assets/images/main/text/img3.png",
-            "/assets/images/main/text/img1.png",
-            "/assets/images/main/text/img2.png"
+            "/assets/images/donation/text/img1.png",
+            "/assets/images/donation/text/img2.png",
+            "/assets/images/donation/text/img3.png"
         ],
         "text3": "Become Parzival's Knight",
         "text4": "Learn More",
         "text5": "Terms and Conditions",
-        "background": "/assets/images/main/img1men.png"
+        "background": "/assets/images/donation/img1men.png"
     },
     "about_us_main": [
         "About Us",
