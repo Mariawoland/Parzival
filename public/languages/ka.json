@@ -70,14 +70,14 @@
     "hero": {
         "text1": "გახდი პარსიფალის რაინდი",
         "text2": [
-            "/assets/images/donation/text/3.png",
-            "/assets/images/donation/text/1.png",
-            "/assets/images/donation/text/2.png"
+            "/assets/images/donation/text/img1.png",
+            "/assets/images/donation/text/img2.png",
+            "/assets/images/donation/text/img3.png"
         ],
         "text3": "გახდი პარსიფალის რაინდი",
         "text4": "გაიგე მეტი",
         "text5": "გაეცანი წესებსა და პირობებს",
-        "background": "/assets/images/donation/img1.png"
+        "background": "/assets/images/donation/img1m.png"
     },
     "about_us_main": [
         "ჩვენს შესახებ",
