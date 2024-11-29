@@ -21,7 +21,7 @@ export default function Hero() {
     return (
         <>
             <div className="relative max-w-screen h-[88vh] pt-0 px-0 m-0 flex items-center justify-center">
-                <Image width={1000} height={700} src='/assets/images/main/img1.png' className="absolute inset-0 w-full h-[88vh] object-cover -z-10 md:flex hidden" alt={'background image'} />
+                <Image width={1000} height={700} src='/assets/images/donation/img1.png' className="absolute inset-0 w-full h-[88vh] object-cover -z-10 md:flex hidden" alt={'background image'} />
                 <Image width={600} height={1000} alt={"Background image"} src={selectedLanguage === "en" ? enText.hero.background : kaText.hero.background} className="absolute inset-0 w-full h-[86vh] -z-10 md:hidden flex" />
                 <div className='w-full h-full absolute md:flex hidden -z-10'>
                     <Image width={600} height={200} alt='text' src={selectedLanguage === "en" ? enText.hero.text2[0] : kaText.hero.text2[0]} data-aos="fade-left" className='absolute lg:w-[42vw] w-[52vw] top-[8%] left-[8%]' />
