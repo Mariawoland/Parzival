@@ -39,7 +39,7 @@ const Garden = async ({ params: { id }, searchParams }: SearchParamProps) => {
 
             <div className={`relative min-h-screen md:p-0 px-[6%] pt-[6%]`}>
 
-                <img src="/assets/images/garden/1.JPG" alt="garden Photo"
+                <img src="/assets/images/projects/img9.jpg" alt="garden Photo"
                     className="md:absolute relative inset-0 h-full w-full object-cover -z-10 md:p-0 px-2 md:flex hidden" />
 
                 <div className='md:absolute relative lg:w-1/2 md:w-10/12 md:top-16 md:right-12 w-full md:bg-four-1 z-10 shadow-garden text-two-1 rounded-3xl md:p-7 p-2 text-justify text-sm leading-relaxed'>
